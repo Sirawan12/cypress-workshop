@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Banana",
+        "price": 10,
+        "recipe": [
+            { "name": "banana", "quantity": 30 }
+        ]
+    },
+    {
+        "name": "Orange",
+        "price": 12,
+        "recipe": [
+            { "name": "orange", "quantity": 30 }
+        ]
+    }
+]

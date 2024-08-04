@@ -1,0 +1,26 @@
+pipeline {
+ agent any
+
+    stages {
+        stage('1. Detect changes') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+        stage('2. Testing with cypress') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+        stage('3. Generate test report') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+        stage('4. Sent test result') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+    }
+}
